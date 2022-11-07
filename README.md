@@ -156,14 +156,14 @@ All the Negative samples were converted to gray scale and cropped to same size a
 
 ## Samples of Dataset Ready for training (Preprocessed Dataset)
   
-![Custom Positive training Image](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/report_ss/Preprocessed%20Custom%20Dataset%20Sample.PNG)
+![Custom Positive training Image](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/report_ss/Preprocessed%20Custom%20Dataset%20Sample.PNG) <b>
 
-      >**Custom Positive training Image**
+      >Custom Positive training Image
 
 
 ![Public Positive training Image](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/report_ss/Preprocessed%20Public%20Dataset%20Sample.PNG)
       
-        >**Public Positive training Image**
+        >Public Positive training Image
 
 
 ## Code Snippets for Positive Dataset Preprocessing
