@@ -33,6 +33,8 @@
 
 ## Demo and Report
 [Team Uno Report](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/team%20uno%20report.pdf)
+      
+      
 [Demo Video on live webcamera](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/demo.mkv)
  
       
