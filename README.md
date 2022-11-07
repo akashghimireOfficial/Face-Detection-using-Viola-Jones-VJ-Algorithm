@@ -141,7 +141,7 @@ surrounding like furniture,vegetables, Notebooks and so on.
 
 ***Custom positive dataset***
 
-![image](https://github.com/team-spiders/images/blob/main/FACE%203.png)
+![image](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/report_ss/pipeline.PNG)
 
 
 *Public  Positive Dataset*
