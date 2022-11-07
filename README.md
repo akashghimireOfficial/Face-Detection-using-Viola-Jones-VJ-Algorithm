@@ -18,7 +18,8 @@
 
 [custom cascade classifier file](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/cascade.xml)
 
-[Custom Dataset Variation Sample](https://drive.google.com/drive/folders/1QSpsV9FhHdZHaONRF4e9gyAp3_h6GG6u?usp=share_link)
+[Custom Dataset Variation Sample](https://drive.google.com/drive/folders/1QSpsV9FhHdZHaONRF4e9gyAp3_h6GG6u?usp=share_link) : This is a sample to show the high variation of our custom Positive Dataset. This sample have sub folder for each member of the team. And further more each member subfolder have 6 other sub-subfolders. These 6 sub- subfolders are the different condition in which images have been taken. 
+<b>
 
 [training Dataset(public+custom)](https://drive.google.com/file/d/1zbKXGoRoJZFKAkchKtDtm3W2LA7QkVEv/view?usp=sharing): **consist p and n folders used for training the cascade classifier. These folders contains datasets from both custom as well as public datasets**  <b>
 
