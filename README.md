@@ -24,13 +24,16 @@
             
 ## Script file links
        
-[Data Preprocessing](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/create_cropped_img.ipynb)
+[Data Preprocessing(jupyter notebook file)](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/create_cropped_img.ipynb)
       
 [webcam test.py](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/test.py) 
            
-[Other result](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/result.ipynb)
+[Other result (jupyter notebook file)](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/result.ipynb)
                  
 
+## Demo and Report
+[Team Uno Report](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/team%20uno%20report.pdf)
+[Demo Video on live webcamera](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/demo.mkv)
  
       
 
