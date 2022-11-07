@@ -8,6 +8,11 @@
         
 ```
 
+
+> **Test the images after converting to grayscale as the cascade classifier was trained on grayscale images.**
+
+
+
 ## Dataset Link
 
 
