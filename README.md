@@ -11,23 +11,25 @@
 ## Dataset Link
 
 
-[custom cascade classifier file](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/cascade.xml)<b>
+[custom cascade classifier file](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/cascade.xml)
 
-[Custom Dataset Variation Sample](https://drive.google.com/drive/folders/1QSpsV9FhHdZHaONRF4e9gyAp3_h6GG6u?usp=share_link)<b>
+[Custom Dataset Variation Sample](https://drive.google.com/drive/folders/1QSpsV9FhHdZHaONRF4e9gyAp3_h6GG6u?usp=share_link)
 
 [training Dataset(public+custom)](https://drive.google.com/file/d/1zbKXGoRoJZFKAkchKtDtm3W2LA7QkVEv/view?usp=sharing): **consist p and n folders used for training the cascade classifier. These folders contains datasets from both custom as well as public datasets**  <b>
 
-[Result on Test Dataset Images](https://drive.google.com/drive/folders/1xmpU318jbzdBI0jlo1_xZQqEAWu4WH9_?usp=share_link)
- <b>
+[Result on Test Dataset Images](https://drive.google.com/drive/folders/1xmpU318jbzdBI0jlo1_xZQqEAWu4WH9_?usp=share_link): **These folders contains the result of cascade classifier on custom as well public datasets.If the image does not have bounding box on the face means that cascade classifer have failed to detect those specific faces.**<br> 
 
-    
+
+            
+            
 ## Script file links
+       
 [Data Preprocessing](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/create_cropped_img.ipynb)
-       <b>
+      
 [webcam test.py](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/test.py) 
-             <b>
+           
 [Other result](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/result.ipynb)
-                   <b>       
+                 
 
  
       
