@@ -7,6 +7,20 @@
         12194814           12194945          12194874           12194940
         
 ```
+
+## Dataset Link
+
+
+[custom cascade classifier file](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/cascade.xml)<b>
+
+[Custom Dataset Variation Sample](https://drive.google.com/drive/folders/1QSpsV9FhHdZHaONRF4e9gyAp3_h6GG6u?usp=share_link)<b>
+
+[training Dataset(public+custom)](https://drive.google.com/file/d/1zbKXGoRoJZFKAkchKtDtm3W2LA7QkVEv/view?usp=sharing)<b>
+
+[Result on Test Dataset Images](https://drive.google.com/drive/folders/1xmpU318jbzdBI0jlo1_xZQqEAWu4WH9_?usp=share_link)
+
+
+
 ## Project Objective:
 
 In this project we implement the face-based object detection algorithm proposed by Viola and Jones (2001). This Project uses Haar Cascade technique along with adaBoost training system for face detection by taking hundreds of positive face images with respect to thousands of negative non-face images.  
