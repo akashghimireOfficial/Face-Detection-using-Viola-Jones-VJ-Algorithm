@@ -15,16 +15,19 @@
 
 [Custom Dataset Variation Sample](https://drive.google.com/drive/folders/1QSpsV9FhHdZHaONRF4e9gyAp3_h6GG6u?usp=share_link)<b>
 
-[training Dataset(public+custom)](https://drive.google.com/file/d/1zbKXGoRoJZFKAkchKtDtm3W2LA7QkVEv/view?usp=sharing)<b>
+[training Dataset(public+custom)](https://drive.google.com/file/d/1zbKXGoRoJZFKAkchKtDtm3W2LA7QkVEv/view?usp=sharing): **consist p and n folders used for training the cascade classifier. These folders contains datasets from both custom as well as public datasets**  <b>
 
 [Result on Test Dataset Images](https://drive.google.com/drive/folders/1xmpU318jbzdBI0jlo1_xZQqEAWu4WH9_?usp=share_link)
  <b>
 
     
 ## Script file links
-[Data Preprocessing](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/create_cropped_img.ipynb)<b>
-[webcam test.py](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/test.py) <b>
-[Other result](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/result.ipynb)<b>       
+[Data Preprocessing](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/create_cropped_img.ipynb)
+       <b>
+[webcam test.py](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/test.py) 
+             <b>
+[Other result](https://github.com/akashghimireOfficial/Face-Detection-using-Viola-Jones-VJ-Algorithm/blob/master/src/result.ipynb)
+                   <b>       
 
  
       
