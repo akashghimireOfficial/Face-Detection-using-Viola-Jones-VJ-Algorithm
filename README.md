@@ -211,7 +211,7 @@ ii) conversion of RGB to Grayscale
  
 | TEAM MEMBER  | STUDENT ID  | CONTRIBUTION  |
 |------------- | ----------- | ----------    |
-| Akash Ghimire|   12194814  |  Haar Cascade classifier training, evaluation & testing |
+| Akash Ghimire(Leader)|   12194814  |  Haar Cascade classifier training, evaluation & testing |
 | Bijay pariyar | 12194945   |  Data-set collection and report writing |
 | Keshav Adhikari | 12194874 | GitHub related work and management |
 | Pradip Thapa | 12194940    |  Environment setup and research  |
